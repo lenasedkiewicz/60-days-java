@@ -13,5 +13,6 @@ public class HelloWorld {
 
         // println moves to a new line
         // print does not move to a new line
+        // escape character: \n - new line; \t - tab;
     }
 }
