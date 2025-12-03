@@ -1,4 +1,4 @@
-// Importing the necessary Java package for standard input-output
+package day1;// Importing the necessary Java package for standard input-output
 import java.util.Scanner;
 
 public class ExerciseScanner {
